@@ -1,0 +1,12 @@
+# Taken verbatim from Hans Ekkehard Plesser's RandVis Project
+# https://gitlab.com/nmbu.no/emner/inf200/h2021/inf200-course-materials/-/tree/main/june_block/examples/randvis_project
+
+# Tell Python build system about required tools.
+# Leave unchanged.
+
+[build-system]
+requires = [
+    "setuptools",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
